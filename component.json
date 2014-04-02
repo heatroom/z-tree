@@ -1,0 +1,15 @@
+{
+  "name": "ztree",
+  "repo": "heatroom/z-tree",
+  "version": "3.5.17",
+  "description": "ztree app",
+  "keywords": [
+    "tree",
+    "ui"
+  ],
+  "main": "index.js",
+  "scripts": ["index.js"],
+  "dependencies": {
+    "component/jquery": "*"
+  }
+}
